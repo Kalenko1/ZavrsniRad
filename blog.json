@@ -1,0 +1,66 @@
+{
+    "breeds": [
+      {
+        "name": "Abyssinian",
+        "image": "https://www.thesprucepets.com/thmb/UPYN6rumtZv5mW4wLprNAs0lbbE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165827729-efc11c02690f457a81ef6ccbfa8eb34d.jpg",
+        "description": "Short-haired, elegant and playful breed with an inquisitive nature."
+      },
+      {
+        "name": "American Bobtail",
+        "image": "https://tica.org/wp-content/uploads/2018/08/American-Bobtail-Full-Body_.jpg",
+        "description": "Medium to long-haired breed with a wild look, intelligent and affectionate."
+      },
+      {
+        "name": "American Curl",
+        "image": "https://image.petmd.com/files/styles/978x550/public/2024-07/american-curl.jpg?w=1080&q=75",
+        "description": "Distinctive curled ears, sociable and playful."
+      },
+      {
+        "name": "American Shorthair",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Jewelkatz_Romeo_Of_Stalker-Bars.jpg",
+        "description": "Short-haired breed with a strong build, gentle and easy-going."
+      },
+      {
+        "name": "American Wirehair",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-kQthHxNXi30w6Zus0x2LYQhiOna0azDAmNnc45CSYJ2Btoe_GfIYUrzh40hrFxhdEqHAldNMDPI5BY4LqPf55A",
+        "description": "Unique wiry coat, playful and adaptable."
+      },
+      {
+        "name": "Balinese",
+        "image": "https://www.thesprucepets.com/thmb/WIvKo_EUZTUzysr3M6txQ-OJ_gQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-855587394-902433e789c9423cb683be8e9c1291ce.jpg",
+        "description": "Long-haired Siamese variety, graceful and vocal."
+      },
+      {
+        "name": "Bengal",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVelwJZLDdC7_7L6mSlHzWIIRwl9-RptwNVFjghK5nHLM-rRjTHmtfKdPX-2V-kwyMpZASmyNp7vLEHYa7of4bhA",
+        "description": "Short-haired, exotic and athletic with a leopard-like appearance."
+      },
+      {
+        "name": "Birman",
+        "image": "https://www.pumpkin.care/wp-content/uploads/2022/01/birman-hero.jpg",
+        "description": "Semi-long-haired breed with white gloves, affectionate and friendly."
+      },
+      {
+        "name": "Bombay",
+        "image": "https://www.rover.com/blog/wp-content/uploads/2019/07/pretty-bombay-cat-960x540.jpg",
+        "description": "Short-haired breed with a sleek black coat, social and playful."
+      },
+      {
+        "name": "British Longhair",
+        "image": "https://www.zooplus.co.uk/magazine/wp-content/uploads/2017/03/fotolia_121128511.jpg",
+        "description": "Plush long-haired coat, calm and independent."
+      },
+      {
+        "name": "British Shorthair",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS78cR5VQ6K96vM9TmFSDOSThfp7pEhS0SGw9_gIdGPLsyO2AuUrFwNDKdQYZeVbf7I3Yh6_O-MQUFvyrGD-VYafA",
+        "description": "Short-haired with a dense coat, loyal and easygoing."
+      },
+      {
+        "name": "Burmese",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe22VieAO6UIZv7mrumu9mQU89CDyYVlFsG3s-2ZWj7TeKjDEe_sQve_FF7LGtkmSij6oUwM07yGYJdLvIX1C0-A",
+        "description": "Short-haired with a glossy coat, friendly and people-oriented."
+      }
+      ]
+      
+  }
+  
